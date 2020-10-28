@@ -68,3 +68,11 @@ If you have completed Parts 1 & 2 feel free to move on to these stretch goals.
 ## Submission Format
 
 * [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's  Repo). **Please don't merge your own pull request**
+
+## recordings
+
+[christina gorton](https://youtu.be/0w6GeUtS-eo)
+[emily seibert](https://youtu.be/7_nueWgqPiQ)
+[dan frehner](https://youtu.be/cjLB4uFyoDo)
+[dan levy](https://youtu.be/GLE502-n1ig)
+[jason maurer](https://youtu.be/r98E8iIyyb8)
